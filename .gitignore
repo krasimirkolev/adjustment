@@ -2,3 +2,4 @@ Debug
 ipch
 Adjustment/Debug
 *.suo
+*.sdf
